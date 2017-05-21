@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+HTML5 Bones - The template that goes back to basics
+===================================================
 
-You can use the [editor on GitHub](https://github.com/homicideanalytics/homicideanalytics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Author: Ian Devlin [iandevlin.com](http://iandevlin.com)
+- Twitter: [@iandevlin](http://twitter.com/iandevlin)
+- Website: [html5bones.com](http://html5bones.com)
+- Twitter: [@html5bones](http://twitter.com/html5bones)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Purpose
+=======
 
-### Markdown
+This template can be used as just that, a template to get you going in HTML5, or it can simply be used as a guide via the inline comments when building your own HTML5 page from scratch.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Features
+========
 
-```markdown
-Syntax highlighted code block
+- Contains the most popular HTML5 structural elements and how to use them
+- Also contains templates for HTML5 video and audio and how to use them
+- Cross-browser compatible, down to and including Internet Explorer 7
+- Print CSS included in the main styles.css file
+- [Normalize.css](http://necolas.github.com/normalize.css/) is included to normalise CSS across browsers
+- Inline documentation
+- Reduced, non-commented version for main template also included
+- MIT license
 
-# Header 1
-## Header 2
-### Header 3
+Documentation
+=============
+The documentation is contained within inline comments in the various files, but especially `main-template.html`.
 
-- Bulleted
-- List
+Contribute
+==========
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/homicideanalytics/homicideanalytics.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You are of course welcome to contribute, this is what GitHub is for.
